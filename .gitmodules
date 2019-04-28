@@ -1,0 +1,3 @@
+[submodule "st-gcn"]
+	path = st-gcn
+	url = https://github.com/misrasaurabh1/st-gcn.git

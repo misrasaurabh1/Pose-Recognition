@@ -3,7 +3,7 @@ import json
 import os.path
 import re
 
-root = "/home/saurabh/Documents/Study_Matter/VLR_16824/project/jsons"
+root = "/home/saurabh/Documents/Study_Matter/VLR_16824/project/json_test_crop"
 out_dir = "/home/saurabh/Documents/Study_Matter/VLR_16824/project/data"
 
 label_out = {}
